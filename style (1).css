@@ -1,0 +1,96 @@
+/* CORES QUE DEVEM SER UTILIZADAS
+#11c76f
+#2a8250
+#eff0e8
+#426dff
+*/
+
+body {
+  background-color: #11c76f;
+  color: #35362e;
+}
+.card {
+  border-radius: 100px;
+  width: 300px;
+  padding: 40px 50px;
+  margin: auto;
+  width: 210px;
+  background-color: white;
+  border-color: #426dff;
+  border-style: solid;
+  font-family: 'Roboto', sans-serif;
+  
+}
+h1 {
+  text-decoration: underline;
+}
+
+#ok{
+  text-align: center;
+}
+ul{
+  padding-left: 0%;
+}
+#button{
+  background-color: #11c76f;
+ text-align: center;
+ border-radius: 100px;
+ padding: 10px 50px;
+ font-family: 'Roboto', sans-serif;
+ font-size: smaller;
+ width: 50px;
+ height: 20px;
+ margin: auto;
+}
+
+#amanha{
+  background-color: #426dff;
+  border-radius: 10px;
+  list-style: none;
+  text-align: center;
+  color: #eff0e8;
+  padding: 10px;
+  margin-bottom: 25px;
+  box-shadow: 0px 5px 5px #2a8250;
+  font-size: small;
+}
+
+#sexta{
+  background-color: #426dff;
+  border-radius: 10px;
+  list-style: none;
+  text-align: center;
+  color: #eff0e8;
+  padding: 10px;
+  margin-bottom: 25px;
+  box-shadow: 0px 5px 5px #2a8250;
+  font-size: small;
+}
+
+#sabado{
+  background-color: #426dff;
+  color: #eff0e8;
+  border-radius: 10px;
+  list-style: none;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 25px;
+  box-shadow: 0px 5px 5px #2a8250;
+  font-size: small;
+}
+
+#temperaturaosasco{
+  text-align: center;
+}
+
+#pstrong{
+  color: #eff0e8;
+}
+
+#p15{
+  color: #eff0e8;
+}
+
+#p10{
+  color: #eff0e8;
+}
